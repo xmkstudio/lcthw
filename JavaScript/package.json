@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "ljsthw-bandolier": "git+https://lcthw.dev/learn-javascript-the-hard-way/ljsthw-bandolier.git"
+    "ljsthw-bandolier": "git+https://lcthw.dev/learn-javascript-the-hard-way/ljsthw-bandolier.git",
+    "readline-sync": "^1.4.10"
   }
 }

@@ -1,3 +1,7 @@
+/* 004.js
+ * 04: Variables
+ */
+
 // let is the best way to make a variable
 let name = 'Xander M.K.';
 let age = 36;

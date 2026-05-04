@@ -1,3 +1,7 @@
+/* 002.js
+ * 02: Comments
+ */
+
 // This is a comment, everything after is ignored.
 
 console.log("I am Code");

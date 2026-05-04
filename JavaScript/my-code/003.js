@@ -1,3 +1,7 @@
+/* 003.js
+ * 03: Simple Math and Strings
+ */
+
 /* You can give multiple things for console.log to print.
 Separate each thing with a comma. */
 
